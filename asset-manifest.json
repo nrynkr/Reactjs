@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nrynkr/Friendly-Cart/static/css/main.073c9b0a.css",
-    "main.js": "/nrynkr/Friendly-Cart/static/js/main.5abc3894.js",
-    "static/js/787.f90ff90a.chunk.js": "/nrynkr/Friendly-Cart/static/js/787.f90ff90a.chunk.js",
-    "index.html": "/nrynkr/Friendly-Cart/index.html",
-    "main.073c9b0a.css.map": "/nrynkr/Friendly-Cart/static/css/main.073c9b0a.css.map",
-    "main.5abc3894.js.map": "/nrynkr/Friendly-Cart/static/js/main.5abc3894.js.map",
-    "787.f90ff90a.chunk.js.map": "/nrynkr/Friendly-Cart/static/js/787.f90ff90a.chunk.js.map"
+    "main.css": "/Reactjs/static/css/main.073c9b0a.css",
+    "main.js": "/Reactjs/static/js/main.1cabf74a.js",
+    "static/js/787.f90ff90a.chunk.js": "/Reactjs/static/js/787.f90ff90a.chunk.js",
+    "index.html": "/Reactjs/index.html",
+    "main.073c9b0a.css.map": "/Reactjs/static/css/main.073c9b0a.css.map",
+    "main.1cabf74a.js.map": "/Reactjs/static/js/main.1cabf74a.js.map",
+    "787.f90ff90a.chunk.js.map": "/Reactjs/static/js/787.f90ff90a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5abc3894.js"
+    "static/js/main.1cabf74a.js"
   ]
 }
